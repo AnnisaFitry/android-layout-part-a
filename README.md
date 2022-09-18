@@ -16,29 +16,30 @@
 2. Select Run > Run app or click the Run icon Run Icon in the toolbar to build and execute the app on the emulator or your device.
 ### 1.2 Explore the layout editor
 ## Task 2: Add View elements in the layout editor
-### 2.1 Examine the element constraints
-### 2.2 Add a Button to the layout
-### 2.3 Add a second Button to the layout
+2.1 Examine the element constraints
+2.2 Add a Button to the layout
+2.3 Add a second Button to the layout
 ## Task 3: Change UI element attributes
-### 3.1 Change the Button size
-### 3.2 Change the Button attributes
+3.1 Change the Button size
+3.2 Change the Button attributes
 ## Task 4: Add a TextEdit and set its attributes
-### 4.1 Add a TextView and constraints
-### 4.2 Set the TextView attributes
+4.1 Add a TextView and constraints
+4.2 Set the TextView attributes
 ## Task 5: Edit the layout in XML
-### 5.1 Open the XML code for the layout
-### 5.2 Extract string resources
+5.1 Open the XML code for the layout
+5.2 Extract string resources
 ## Task 6: Add onClick handlers for the buttons
-### 6.1 Add the onClick attribute and handler to each Button
-### 6.2 Edit the Toast Button handler
-### 6.3 Edit the Count Button handler
+6.1 Add the onClick attribute and handler to each Button
+6.2 Edit the Toast Button handler
+6.3 Edit the Count Button handler
 
 ## Hasil Praktikum
 ### Hasil Toast
-![](images/toast.jpeg)
+![](image/Toast.jpeg)
     
 ### Hasil Count
-![](images/count.jpeg)
+![](image/Count.jpeg)
 
 ## Tugas : Coding Challenge
-![](images/)
+![](image/portrait.jpg)
+![](image/landscape.jpg)
